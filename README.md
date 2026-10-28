@@ -12,6 +12,7 @@ Most of my work lives where telecom operations meet modern platforms: Go microse
 - 🛒 Built **GtradeA**, a cross-border e-commerce platform for Nepal, on web (React + Supabase) and mobile (Flutter)
 - 🎓 Teaching **AI Agents in Practice** and **AI Engineer with PyTorch**
 - 💬 Happy to talk about Go microservices, RAG and AI agents, pgvector search, Supabase, or Kubernetes
+- 🌐 Portfolio → [rraj78502.github.io](https://rraj78502.github.io)
 - 📫 Reach me at **rraj78502@gmail.com**
 
 ## 📌 Featured Projects
