@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f17,100:2dd4bf&height=180&section=header&text=Rabi%20Raj%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Instructor%20%7C%20Nepal%20Telecom&descAlignY=58&descSize=16" alt="Rabi Raj Yadav" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=Go+microservices+for+a+national+telecom;RAG+chatbots+and+AI+agents;Cross-border+commerce+on+web+and+mobile;Teaching+engineers+to+build+with+AI" alt="What I do" />
+</p>
+
+<p align="center">
+  <a href="https://rraj78502.github.io"><img src="https://img.shields.io/badge/Portfolio-rraj78502.github.io-2dd4bf?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:rraj78502@gmail.com"><img src="https://img.shields.io/badge/Email-rraj78502%40gmail.com-0b0f17?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rraj78502&style=flat&color=2dd4bf&label=Profile+views" alt="Profile views" />
+</p>
+
 ### Hi, I'm Rabi Raj Yadav 👋
 
 ## 🧭 About
@@ -70,9 +84,32 @@ Nepal e-GP tender scraper and bid search, with province → district → municip
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rraj78502&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rraj78502&layout=compact&hide_border=true)
+*My work is split across two accounts: **rraj78502** (this one) and **[rabi61743](https://github.com/rabi61743)**, which holds the GtradeA, UTS and Balen work. Most of it lives in private repositories.*
+
+#### rraj78502
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rraj78502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats (rraj78502)" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraj78502&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages (rraj78502)" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rraj78502&theme=tokyonight&hide_border=true" alt="Streak (rraj78502)" />
+</p>
+
+#### rabi61743
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabi61743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats (rabi61743)" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabi61743&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages (rabi61743)" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rabi61743&theme=tokyonight&hide_border=true" alt="Streak (rabi61743)" />
+</p>
 
 ---
 
-*Building systems that serve millions of subscribers, and teaching others to build them.*
+<p align="center"><i>Building systems that serve millions of subscribers, and teaching others to build them.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:0b0f17&height=110&section=footer" alt="" />
+</p>
