@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="Signal line">
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .sig{fill:none;stroke:url(#fade);stroke-width:2;stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 4s ease-in-out infinite}
+      .t{font:500 13px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#5d6b85}
+      @keyframes draw{0%{stroke-dashoffset:1400}60%,100%{stroke-dashoffset:0}}
+    </style>
+  </defs>
+  <path class="sig" d="M0 35H420l18-22 20 44 18-44 20 44 18-22H560l14-12 14 12 14-12 14 12H780l18-22 20 44 18-44 20 44 18-22H1200"/>
+  <text x="600" y="66" text-anchor="middle" class="t">signal ok · kathmandu, nepal</text>
+</svg>
